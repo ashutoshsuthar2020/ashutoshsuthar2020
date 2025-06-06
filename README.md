@@ -2,7 +2,7 @@
 👨🏻‍💻&nbsp; Site Reliability Engineer  
 🎓&nbsp;Studied Electronics and Communication Engineering at MNNIT Allahabad  
 🚀&nbsp;I work on automating and monitoring infrastructure at scale  
-🌱&nbsp;Currently exploring Distributed Systems, SLAM technology, and Data Feature Engineering  
+🌱&nbsp;Currently exploring Distributed Systems, building to be a backend engineer 💪  
 
 ---
 
