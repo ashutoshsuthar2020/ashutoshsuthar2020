@@ -1,6 +1,6 @@
 ### Hi there 👋
 👩🏻‍💻&nbsp; Site Reliability Engineer.<br>
-🎓&nbsp;I explored Electronics and communication engineering at the Motilal Nehru National Institue of Technology(MNNIT-Allahabad).<br>
+🎓&nbsp;I studied Electronics and communication engineering at the Motilal Nehru National Institue of Technology(MNNIT-Allahabad).<br>
 🌱&nbsp;I'm on track for learning more about SLAM technology and Data feature engineering.<br>
 
 ---
